@@ -1,0 +1,12 @@
+.container {
+    margin-top: 1rem;
+    margin-left: 10%;
+    margin-bottom: 1rem;
+}
+
+.chart-container {
+    position: relative;
+    height:auto;
+    width:auto;
+    padding: 0% 10% 0% 10%;
+}
