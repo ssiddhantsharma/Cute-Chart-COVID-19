@@ -1,7 +1,7 @@
 ## Covid19-Chart
 A simple page for visualisation of covid19 development per country.
 
-View the chart: (https://ssiddhantsharma.github.io/Cute-Chart-COVID-19/)
+View the chart: [Chart](https://ssiddhantsharma.github.io/Cute-Chart-COVID-19/)
 
 ### Third party projects used
 * ChartJS (https://www.chartjs.org/)
